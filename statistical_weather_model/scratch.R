@@ -1,0 +1,11 @@
+variable = "2m_temperature"
+pressure_level = NA
+lon_range = c(10,12)
+lat_range = c(50, 60)
+years = 1980:2022
+root_dir = ERAData::global_era_dir()
+out_dir = "~/NR/ClimateFutures/RenewableEnergy/SPMM/Volume/MastersData/"
+descriptive_string = NULL
+standardize = FALSE
+verbose = TRUE
+overwrite = FALSE
