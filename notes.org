@@ -1,0 +1,28 @@
+* The Inquiry
+
+** Introduction
+This document is my attempt to understand, basically, motion.
+
+For the moment, work will be kept in the repository TheInquiry
+
+** 22.09.2024
+
+Goal: Create a toy dataset which we believe to have a form amenable to filtering
+Result:
+- I became stuck with a number of technical issues working on my laptop
+- The ERAData package seems to have strange defaults (it requires a date range to be entered, and then it blanked on
+  me, throwing a hard to parse error
+- My settings for python inside of emacs didn't work, it somehow seems the interpretter setting is being ignored.
+
+Next steps:
+- Ask Silius about the ERAData code, maybe first doing a git blame
+- Try to find an alternative setting for the default python interpretter
+
+** 6.10.2024
+
+Goal: Spend some time thinking about the Machine
+
+I am writing a note to discuss what I am trying to build.
+- 
+
+
