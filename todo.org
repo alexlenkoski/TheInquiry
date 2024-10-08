@@ -1,31 +1,36 @@
 List of balls in the air
 
 * Nordforsk
-** TODO Email Boreal
 ** TODO Schedule the Q4 meeting for NordForsk
+ - Email sent to participants 8.10.2024
+ - Follow up on 14.10 with a reminder, close poll 18.10
 ** TODO Schedule an in person meeting for 2025 for NordForsk
-
+** TODO Create a presentation describing the data
+ - Get the data from Leonardo, Min
+** DONE Email Boreal
 * Wheelhouse
 ** TODO Reschedule with Andreas
+** TODO Merge master into PR #678 with 
 ** TODO Locate a small set of vTrips units to look into
 ** DONE Look into Nikolai's PR
-** TODO Finish the routine
-
-* Marthe Thesis
+* Marthe
+Thesis
 ** TODO Implement main idea
 
 * RAISE
 ** TODO Read through all current material to know what the idea is
 
 * Misc
-** TODO Figure out how you're getting to the NR samling
-** TODO Write to fravaer about being out of town
-** TODO Look at calendar
-** TODO Email Anders what to do on the economy reports.
+** DONE Figure out how you're getting to the NR samling
+- Have now arranged with Hanne, meeting her at "stoppe på parkeringen
+  mellom Rud VGS og Idrettsparken (der det står bokser til Fretex innsamling)"
+** DONE Write to fravaer about being out of town
+** DONE Look at calendar
+** DONE Email Anders what to do on the economy reports.
 ** TODO Update resource matrix
 
 * Personal
-** Revelstoke
+** TODO Revelstoke
 *** DONE Flights for Revelstoke
  - Current idea is to arrive on the evening of the Tuesday and leave Monday morning.
  - Booked.  Leaving 9:20 am Feb 25th.  Returning March 4th 11:55
